@@ -1,4 +1,4 @@
 # \# Student Management
 
-# Student status: Updated in feature.
+# Student status: Registered and updated successfully.
 
