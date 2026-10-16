@@ -1,2 +1,4 @@
-# Student Management Application 
-Student Management - Student details and marks feature.
+# \# Student Management
+
+# Student status: Updated in feature.
+
