@@ -1,3 +1,1 @@
-"# Student Management Application" 
-"Manages student records." 
-"Develop branch: Student registration module." 
+# Student Management Application 
